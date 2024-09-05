@@ -5,7 +5,6 @@
 ---
 
 CreateThread(function()
-    local baseTime <const> = GetGameTimer()
     while (not SM:hasPlayerSpawned()) do
         Wait(0)
     end
