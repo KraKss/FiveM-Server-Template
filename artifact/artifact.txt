@@ -1,0 +1,1 @@
+extract the zip cfx artifact from https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/ inside this folder
